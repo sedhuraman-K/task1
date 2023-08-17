@@ -1,0 +1,2 @@
+how to print console.log;
+console.log("sedhu");
